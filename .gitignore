@@ -1,0 +1,9 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/AddInApiNet6/cs/.vs/AddInApiNet6/FileContentIndex
+/AddInApiNet6/cs/.vs/AddInApiNet6/v17
+/AddInApiNet6/cs/Console/obj
+/AddInApiNet6/cs/AddInApiNet6/bin/Debug/net6.0-windows
+/AddInApiNet6/cs/AddInApiNet6/obj
