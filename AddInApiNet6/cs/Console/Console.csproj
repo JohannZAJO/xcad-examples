@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xarial.XCad.SolidWorks" Version="0.8.0-20220702.1" />
+    <PackageReference Include="Xarial.XCad.SolidWorks" Version="0.8.0" />
   </ItemGroup>
 
 </Project>
