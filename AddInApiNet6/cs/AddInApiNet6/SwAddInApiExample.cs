@@ -15,7 +15,7 @@ namespace Xarial.XCad.Examples
 
     [ComVisible(true)]
     [Guid("557BB880-4F74-43C3-8244-60AEF26CB5F2")]
-    [Title("SW AddIn API Example")] // NE tuts nicht warum auch immer kann nicht aktivert werden
+    [Title("SW AddIn API Example")] // Nicht OK tuts nicht warum auch immer kann nicht aktivert werden
     public class SwAddInApiExample : SwAddInEx, ISwAddInApiExampleApi
     {
         [Title("SW AddIn API Example")]

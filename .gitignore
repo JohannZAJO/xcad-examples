@@ -7,3 +7,5 @@
 /AddInApiNet6/cs/Console/obj
 /AddInApiNet6/cs/AddInApiNet6/bin/Debug/net6.0-windows
 /AddInApiNet6/cs/AddInApiNet6/obj
+*.v2
+*.bin
