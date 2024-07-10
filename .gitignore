@@ -9,3 +9,6 @@
 /AddInApiNet6/cs/AddInApiNet6/obj
 *.v2
 *.bin
+/SqlDbEfNetCore/cs/obj/Debug/netcoreapp3.1
+/SqlDbEfNetCore/cs/.vs/SqlDbEfNetCore/FileContentIndex
+/SqlDbEfNetCore/cs/obj
